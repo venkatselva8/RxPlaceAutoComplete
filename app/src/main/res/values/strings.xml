@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RxPlaceAutoComplete</string>
+    <string name="search_city">Search City</string>
+    <string name="search_place">Search Place</string>
+    <string name="wifi">Wifi</string>
+    <string name="cancel">Cancel</string>
+    <string name="noInternet_title">No Internet Connection</string>
+    <string name="noInternetmsg">Please connect the Internet</string>
+    <string name="mobile_data">Mobile data</string>
+    <string name="noInternet_msg">Please turn ON and try again</string>
+    <string name="place">Place</string>
+    <string name="city">City</string>
+</resources>
