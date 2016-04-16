@@ -1,0 +1,192 @@
+
+/**
+ * @author Venkatesh Selvam <venkatselva8@gmail.com>
+ *         <p/>
+ *         This File shows Sample Request and Response of Google Maps search place
+ */
+
+
+// Sample Request :
+
+https://maps.googleapis.com/maps/api/place/autocomplete/json?input=chennai&key=YOUR_API_KEY
+
+
+// Sample Response :
+
+
+        {
+        "predictions" : [
+        {
+        "description" : "Chennai, Tamil Nadu, India",
+        "id" : "1fcd7bfd9f29e59c4de19320b184468f69e301da",
+        "matched_substrings" : [
+        {
+        "length" : 7,
+        "offset" : 0
+        }
+        ],
+        "place_id" : "ChIJYTN9T-plUjoRM9RjaAunYW4",
+        "reference" : "CkQyAAAAVkL-OS8Ia-3aJTWgvnhai0dxaKpQiuqmDpi9EBJUNeQ9qWbVRMap9aE0J3m6_Y-JGki0TWcdM5tBM7cctdDpfRIQUlhZtWrDq2EuGURHXyExwRoUnfi_nt4-AuMQf3uW-QgoGp7GFYw",
+        "terms" : [
+        {
+        "offset" : 0,
+        "value" : "Chennai"
+        },
+        {
+        "offset" : 9,
+        "value" : "Tamil Nadu"
+        },
+        {
+        "offset" : 21,
+        "value" : "India"
+        }
+        ],
+        "types" : [ "locality", "political", "geocode" ]
+        },
+        {
+        "description" : "Chennai Central, Station Road, Kannappar Thidal, Chennai, Tamil Nadu, India",
+        "id" : "f26c1c577c38f0487ab8383e4874d22eaba33484",
+        "matched_substrings" : [
+        {
+        "length" : 7,
+        "offset" : 0
+        }
+        ],
+        "place_id" : "ChIJZWIhof9lUjoRFgkVYkVw7kc",
+        "reference" : "CmRZAAAAYqV8Dmlr2bhyoNq7kqtHPPBDrn3EgsPkdnTZlrpM9pZX3hZ_csAWKroyprmf-WVBZe-np5tbd498BHC-YnoM4t7NBGWez_zSSqRUT2UXHRWsa5ZwtKq6MwLVXgWInyTeEhAV0-VmqnqHmQQthJWYK7zHGhRmzuomdh75xk304j2kdtaGdEpRug",
+        "terms" : [
+        {
+        "offset" : 0,
+        "value" : "Chennai Central"
+        },
+        {
+        "offset" : 17,
+        "value" : "Station Road"
+        },
+        {
+        "offset" : 31,
+        "value" : "Kannappar Thidal"
+        },
+        {
+        "offset" : 49,
+        "value" : "Chennai"
+        },
+        {
+        "offset" : 58,
+        "value" : "Tamil Nadu"
+        },
+        {
+        "offset" : 70,
+        "value" : "India"
+        }
+        ],
+        "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+        },
+        {
+        "description" : "Chennai Suburban Railway Station, Kannappar Thidal, Chennai, Tamil Nadu, India",
+        "id" : "76b2a5714b47cb96b2c8ce44ca1c0e393ff7bb7a",
+        "matched_substrings" : [
+        {
+        "length" : 7,
+        "offset" : 0
+        }
+        ],
+        "place_id" : "ChIJ-_RTs_9lUjoRTa5LgmydRzw",
+        "reference" : "CmRcAAAA8-fNcHTto4OMEoLaS7cOd-EcZAur1C4Vyp8MXmXREzHAANeiUhqwdrtHPZd6aZNSR5IeD9zZELshUES1sHDIDCdG0FwePthpW3wXPOw1-2fYY_UVj32e5YCpwGxySjRuEhAA5PgQA7WlIfvi67t6oBUQGhQ-OyeLgt57H2RKHuY5PdaKN9PbQA",
+        "terms" : [
+        {
+        "offset" : 0,
+        "value" : "Chennai Suburban Railway Station"
+        },
+        {
+        "offset" : 34,
+        "value" : "Kannappar Thidal"
+        },
+        {
+        "offset" : 52,
+        "value" : "Chennai"
+        },
+        {
+        "offset" : 61,
+        "value" : "Tamil Nadu"
+        },
+        {
+        "offset" : 73,
+        "value" : "India"
+        }
+        ],
+        "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+        },
+        {
+        "description" : "Chennai Egmore, Gandhi Irwin Road, Egmore, Chennai, Tamil Nadu, India",
+        "id" : "5c1488e34da8a1995029aa7096c346ad8c832633",
+        "matched_substrings" : [
+        {
+        "length" : 7,
+        "offset" : 0
+        }
+        ],
+        "place_id" : "ChIJpXaKYwlmUjoRhYsLAYH2BaY",
+        "reference" : "CmRUAAAAzEngH9jWU-JoXnPRh1r0sxzWCmAWaDZePugfhi1eL1lj3wkK2-RzninMRk5J7NFlTGjfSc94_M6INP8R7pkIyB6d2DbuSN6M1etBVYkfUPs8CaMhNMeF1ZopjSO2V9aEEhA6Txc3VDHzRZDkC5PJ7z3pGhRosNv4L6DZyYl-pOiFMcDqrZtyxw",
+        "terms" : [
+        {
+        "offset" : 0,
+        "value" : "Chennai Egmore"
+        },
+        {
+        "offset" : 16,
+        "value" : "Gandhi Irwin Road"
+        },
+        {
+        "offset" : 35,
+        "value" : "Egmore"
+        },
+        {
+        "offset" : 43,
+        "value" : "Chennai"
+        },
+        {
+        "offset" : 52,
+        "value" : "Tamil Nadu"
+        },
+        {
+        "offset" : 64,
+        "value" : "India"
+        }
+        ],
+        "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+        },
+        {
+        "description" : "Chennai Port Trust, Chennai, Tamil Nadu, India",
+        "id" : "054245d2a871c23cbe1f673aa5fe1aa105df6f78",
+        "matched_substrings" : [
+        {
+        "length" : 7,
+        "offset" : 0
+        }
+        ],
+        "place_id" : "ChIJOZpITktvUjoRRzI0NE656Do",
+        "reference" : "ClRGAAAAfLBx97N0m3n4hOQh7K1VNcr9duupE3mYg_V6HXbKu9rxq5doWrKgaOx6YXjeoUNfRBZrtSoOzdOFqwv7ySUR1pdQtUjCK_KL_1p_ME8GgzoSENuXiKPt0OkaRv0tYsh7RdMaFGNj2pmde3OJoas580MDFMNErOIJ",
+        "terms" : [
+        {
+        "offset" : 0,
+        "value" : "Chennai Port Trust"
+        },
+        {
+        "offset" : 20,
+        "value" : "Chennai"
+        },
+        {
+        "offset" : 29,
+        "value" : "Tamil Nadu"
+        },
+        {
+        "offset" : 41,
+        "value" : "India"
+        }
+        ],
+        "types" : [ "sublocality_level_1", "sublocality", "political", "geocode" ]
+        }
+        ],
+        "status" : "OK"
+        }
