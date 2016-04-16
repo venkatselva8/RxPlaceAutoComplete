@@ -6,7 +6,7 @@ An AutocompleteTextView that interacts with the Google Maps Places API to provid
 * Reduce Spelling mistakes.
 * Improve User Experience
 
-![RxPlaceAutoComplete GIF](http://i.giphy.com/QCU8jfpM3u0co.gif)
+![RxPlaceAutoComplete GIF](GitFiles/RxPlaceAutoComplete.gif)
 
 Quick Start:
 
@@ -21,7 +21,7 @@ Quick Start:
 
 Note:
  
- Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/SampleReqResp)
+ Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/GitFiles/SampleReqResp.txt)
  
  Suggestions are welcome. :)
  Sent to venkatselva8@gmail.com
