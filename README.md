@@ -20,7 +20,8 @@ Quick Start:
 
 
 Note:
- 1.Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/SampleReqResp)
+ 
+ Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/SampleReqResp)
  
  Suggestions are welcome. :)
  Sent to venkatselva8@gmail.com
