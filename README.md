@@ -1,4 +1,4 @@
-# RxPlaceAutoComplete -
+# RxPlaceAutoComplete 
 An Example Android Studio project using [Retrofit](http://square.github.io/retrofit/) & [Google Places API](https://developers.google.com/places/) to provide Places/ Cities with [AutoCompleteTextField](http://developer.android.com/reference/android/widget/AutoCompleteTextView.html)  in Android.
 
 An AutocompleteTextView that interacts with the Google Maps Places API to provide location results.
@@ -8,7 +8,7 @@ An AutocompleteTextView that interacts with the Google Maps Places API to provid
 
 ![RxPlaceAutoComplete GIF](GitFiles/RxPlaceAutoComplete.gif)
 
-Quick Start:
+#Quick Start
 
 1. Download this project
 
@@ -19,7 +19,7 @@ Quick Start:
 4. Now Run the Project. Happy Coding :)
 
 
-Note:
+# Note:
  
  Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/GitFiles/SampleReqResp.txt)
  
