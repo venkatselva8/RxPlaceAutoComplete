@@ -10,7 +10,7 @@ An AutocompleteTextView that interacts with the Google Maps Places API to provid
 
 Quick Start:
 
-1.Download this project
+1. Download this project
 
 2. You'll need a Google Server API key for this application. There are instructions on how to set up your API project and generate a key [here](https://developers.google.com/places/web-service/get-api-key)
 
@@ -20,7 +20,7 @@ Quick Start:
 
 
 Note:
- Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/SampleReqResp)
+ 1.Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/SampleReqResp)
  
  Suggestions are welcome. :)
  Sent to venkatselva8@gmail.com
