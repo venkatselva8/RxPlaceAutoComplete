@@ -23,7 +23,9 @@ An AutocompleteTextView that interacts with the Google Maps Places API to provid
  
  Sample Google Maps Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/GitFiles/SampleReqResp.txt)
  
- Suggestions are welcome. :)
+ Suggestions are welcome.
  Sent to venkatselva8@gmail.com
+ 
+ Happy Coding :)
 
 
