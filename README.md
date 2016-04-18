@@ -10,7 +10,7 @@ An AutocompleteTextView that interacts with the Google Maps Places API to provid
 
 #Quick Start
 
-1. Download this project
+1. Download this project & Remove the GitFiles Folder & Import the project in Android Studio.
 
 2. You'll need a Google Server API key for this application. There are instructions on how to set up your API project and generate a key [here](https://developers.google.com/places/web-service/get-api-key)
 
