@@ -33,15 +33,17 @@ import retrofit.client.Response;
 /**
  * @author Venkatesh Selvam <venkatselva8@gmail.com>
  *         <p/>
- *         MainActivity class generates an implementation of the PlaceApi interface.
+ *         MainActivity class handles 
+ *         1.AutoCompleteTextView that interacts with Google Places API to provide location results.
+ *         2.Retrofit which establish HTTP connection with Google Places API 
  */
-/*You'll need a Google Server API key for you application.
-    There are instructions on how to set up your API project and
-    generate a Server key
+ 
+/*        You'll need a Google Server API key for you application.
+          There are instructions on how to set up your API project and
+          generate a Server key
 
-     Link :  https://developers.google.com/places/web-service/get-api-key
-
-     */
+          Link :  https://developers.google.com/places/web-service/get-api-key
+*/
 public class MainActivity extends AppCompatActivity {
     AutoCompleteTextView atvPlaces;
     AutoCompleteTextView atvCity;
