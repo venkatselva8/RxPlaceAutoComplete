@@ -1,4 +1,4 @@
-# RxPlaceAutoComplete 
+# RxPlaceAutoComplete  ![RxPlaceAutoComplete- AppLogo](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png)
 An Android Studio demo project using [Retrofit](http://square.github.io/retrofit/) & [Google Places API](https://developers.google.com/places/) to provide Places/ Cities with [AutoCompleteTextField](http://developer.android.com/reference/android/widget/AutoCompleteTextView.html)  in Android.
 
 An AutocompleteTextView that interacts with the Google Places API to provide location results.
