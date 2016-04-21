@@ -8,7 +8,7 @@ An AutocompleteTextView that interacts with the Google Places API to provide loc
 
 ![RxPlaceAutoComplete GIF](GitFiles/RxPlaceAutoComplete.gif)
 
-#Quick Start
+## Quick Start
 
 1. Download this project & Remove the GitFiles Folder & Import the project in Android Studio.
 
@@ -19,13 +19,26 @@ An AutocompleteTextView that interacts with the Google Places API to provide loc
 4. Now Run the Project. Happy Coding :)
 
 
-# Note:
+### Google Places API 
  
- Sample Google Places - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/GitFiles/SampleReqResp.txt)
+ Sample Google Places API - Request & Response available [here](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/GitFiles/SampleReqResp.txt)
  
- Suggestions are welcome.
- Sent to venkatselva8@gmail.com
  
- Happy Coding :)
+##Credits
+
+Thanks to the following for use of their works in my project.
+
+1. App Icon              - [Material Icons](https://design.google.com/icons/)
+2. App Icon creator tool - [Iconion](http://iconion.com/)
+3. App Icon Resizer      - [MakeAppIcon](http://makeappicon.com/)
+
+##End
+
+  Suggestions are welcome.  
+  Sent to venkatselva8@gmail.com
+
+
+Happy Coding :)
+
 
 
