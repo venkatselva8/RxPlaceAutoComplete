@@ -16,7 +16,7 @@ An AutocompleteTextView that interacts with the Google Places API to provide loc
 
 3. Add Google Server API key in [MainActivity.Java](https://github.com/venkatselva8/RxPlaceAutoComplete/blob/master/app/src/main/java/com/venkytuts/rxplaceautocomplete/MainActivity.java) 
 
-4. Now Run the Project. Happy Coding :)
+4. Now Run the Project. 
 
 
 ### Google Places API 
