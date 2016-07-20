@@ -32,6 +32,9 @@ Thanks to the following for use of their works in my project.
 2. App Icon creator tool - [Iconion](http://iconion.com/)
 3. App Icon Resizer      - [MakeAppIcon](http://makeappicon.com/)
 
+Note : The word "Rx" in the "RxPlaceAutoComplete" doesn't mean the RxLibraries/ RxJava.
+
+
 ##End
 
   Suggestions are welcome.  
